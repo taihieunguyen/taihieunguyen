@@ -28,7 +28,8 @@
 
 ### ✍️ Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<i><b>"In the digital world, silence doesn’t mean safety — it could be the sign of an attack lurking beneath."</b></i>
+
 </div>
 
 ---
