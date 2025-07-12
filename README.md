@@ -3,11 +3,16 @@
 </p>
 
 # 👨‍🎓 About Me:
+<div align="center">
+
 🔭 I’m currently studying at UIT HCMVNU  
 🌱 I’m currently learning Information Security  
 🤝 I'm looking for help with SOC Analyst  
 💬 Contact me on Gmail : taihieunguyen004@gmail.com  
 ⚡ Fun fact: There is only one truth.
+
+</div>
+
 
 ## 🌍 Connect with Me:
 <p align="center">
