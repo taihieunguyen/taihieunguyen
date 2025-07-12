@@ -1,3 +1,4 @@
+![Loading](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDMxbjdnenE4c3ZycXFxazg4OXNtOGtkamFqMzR0aTBvdmQ2enE1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LKNqU8ISdR7iw/giphy.gif)
 # 👨‍🎓 About Me:
 🔭 I’m currently studying at UIT HCMVNU  
 🌱 I’m currently learning Information Security  
