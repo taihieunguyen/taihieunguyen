@@ -26,18 +26,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=taihieunguyen&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
-### ✍️ Dev Quote
+### ✍️ Security message
 <div align="center">
 <i><b>"In the digital world, silence doesn’t mean safety — it could be the sign of an attack lurking beneath."</b></i>
 
 </div>
 
----
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=taihieunguyen&icon=10&color=1" />
-  </a>
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
